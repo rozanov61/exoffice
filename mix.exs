@@ -44,7 +44,7 @@ defmodule Exoffice.Mixfile do
       {:csv, "~> 2.1"},
       {:ex_doc, "~> 0.19.1", only: [:dev, :test]},
       {:earmark, "~> 1.0"},
-      {:iconv, "~> 1.0"}
+      {:iconv, "~> 1.0.14"}
     ]
   end
 
